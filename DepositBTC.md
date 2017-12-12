@@ -1,0 +1,1 @@
+http://support.wavesplatform.com/forums/2-knowledge-base/categories/128-english-section/topics/
