@@ -33,7 +33,7 @@ GGuigYJDs3xoqmr4mGpLAguoEU6CfqTjb9qwk3YLCWRc
 ![./assets/dex3.png
 ](./assets/dex3.png)
 
- Please note, sometimes Clicking
+ Please note, sometimes clicking on the dropdown cause it to close before the actual item was selected. If this happens just try again and it should work but you can always refresh your browser if the trouble persists.
 
 ## Further Guidance Coming Soon.
 
