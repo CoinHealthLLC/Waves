@@ -2,7 +2,7 @@
 
 **This guide is for restoring from an existing account.**
 
-## Open the news waves platform [URL CLICKME](https://beta.wavesplatform.com) and you should see the following screen.
+## Open the **[new waves platform](https://beta.wavesplatform.com)** and you should see the following screen.
 
 ![](assets/1.png)
 

@@ -4,22 +4,19 @@
 
 This is the screen you should see when attempting to login to the Waves platform
 
-![./assets/login.png
-](./assets/login.png)
+![./assets/login.png](./assets/login.png)
 
 ## Dashboard
 
 This is where to make deposits of the various options listed.
 
-![./assets/dashboard.png
-](./assets/dashboard.png)
+![./assets/dashboard.png](./assets/dashboard.png)
 
 ## Dex (buy and sell)
 
 Click on the button in the menu bar that looks like two arrows pointed opposite ways.
 
-![./assets/dex.png
-](./assets/dex.png)
+![./assets/dex.png](./assets/dex.png)
 
 
 ## Purchase CoinHealth Tokens
