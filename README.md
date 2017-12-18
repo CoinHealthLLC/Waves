@@ -2,9 +2,12 @@
 ## Guidance, Tutorials, Help, Additional Resources, Links, etc.
 
 ### [Purchasing CoinHealth on Waves](coinhealthwaves.md)
-### [Migrating to the New Waves Platform](Waves-New.md)
+This guide will walk you through purchasing CoinHealth Tokens on the Waves Platform
 
-[Get Started with Waves](https://support.wavesplatform.com/forums/2-knowledge-base/topics/4228-get-started-with-waves/)
+### [Migrating to the New Waves Platform](Waves-New.md)
+This guide will walk you through migration to the new Waves Platform
+
+## [Get Started with Waves](https://support.wavesplatform.com/forums/2-knowledge-base/topics/4228-get-started-with-waves/)
 
 Just open an online version of the lite client - [https://waveswallet.io](https://waveswallet.io/) and create an account. Should you need additional guidance please follow the steps found here: [How to Create an Account](https://wavesplatform.userecho.com/topics/4399-how-to-create-an-account/)
 
